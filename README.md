@@ -3,4 +3,4 @@ Chuning Liu\
 https://javapersuader.github.io/Lab9_Starter/index.html
 ## Here's the screenshot for trackjs
 
-![trackjs](trackjs.png).
+![trackjs](Trackjs.png).
